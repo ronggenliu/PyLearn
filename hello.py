@@ -1,0 +1,6 @@
+print "hello"
+
+def fun(a, b):
+	print a, b
+
+fun('1', '2')
